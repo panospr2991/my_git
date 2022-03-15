@@ -5,5 +5,30 @@ Commit 1
 ---------
 Commit 2
 ---------
+bug-fix branch
+Commit 3
+---------
+Commit 4
+---------
+Commit 5
+---------
+Commit 6
+---------
+bug-fix-experimental branch
+Commit 7
+--------
+Commit 8
+--------
+Commit 9
+--------
+main branch
 Commit 10
 ---------
+bug-fix branch
+Commit 11
+--------
+Commit 12
+--------
+main branch
+Commit 13
+--------
