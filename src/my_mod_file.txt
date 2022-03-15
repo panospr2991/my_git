@@ -1,2 +1,5 @@
 bug-fix branch
 Commit 3
+--------
+Commit 4
+--------
